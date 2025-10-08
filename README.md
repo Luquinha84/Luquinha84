@@ -13,7 +13,7 @@ Atualmente focado em **Java**, **JavaScript**, **HTML**, **CSS** e **desenvolvim
 - 💻 Estudando **Java** e **Estruturas de Dados**  
 - 🌱 Aprimorando habilidades em **Desenvolvimento Web**  
 - 🧠 Interessado em **APIs**, **Banco de Dados** e **Boas Práticas de Código**  
-- 📫 Contato: [luquinha84.dev@gmail.com](mailto:luquinha84.dev@gmail.com)  
+- 📫 Contato: [lucaskato09@gmail.com](mailto:lucaskato09@gmail.com)  
 - 🌐 Portfólio: [luquinha84.github.io](https://luquinha84.github.io)
 
 ---
