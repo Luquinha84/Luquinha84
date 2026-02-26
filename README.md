@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre buscando novos desafios.  
-Atualmente focado em **Java**, **JavaScript**, **HTML**, **CSS** e **desenvolvimento de sistemas completos**.
+Atualmente focado em **HTML**, **CSS**, **JAVASCRIPT**, **JAVA** e **desenvolvimento de sistemas completos**.
 
 ✨ “Cada linha de código é um passo em direção a algo incrível.”
 
